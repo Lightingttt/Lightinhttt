@@ -1,6 +1,5 @@
 # 👋 Oi, me chamo Dennys!
 
-🎓 Estudante de [Curso ou Área]  
 💻 Explorando algoritmos generativos para produzir arte e imagens de forma procedural
 📚 Atualmente aprendendo: Java e C#
 📫 Meus contatos:
@@ -16,7 +15,7 @@
 
 ## 🧠 Projetos em Destaque
 - [🎮 RPG 2D](https://github.com/Lightingttt/--) – seu primeiro jogo!
-- Em breve outros...
+- Mais projetos estão a caminho!
 
 ## 📈 GitHub Stats
 ![Dennys GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightingttt&show_icons=true&theme=radical)
