@@ -4,9 +4,8 @@
 📚 Atualmente aprendendo: Java e C#<br>
 📫 Meus contatos:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennys199820@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lightingttt)
 
 ## 🚀 Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -14,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧠 Projetos em Destaque
-- [🎮 RPG 2D](https://github.com/Lightingttt/--) – seu primeiro jogo!
+- [🎮 RPG 2D](https://github.com/Lightingttt/--) – meu primeiro jogo!
 - Mais projetos estão a caminho!
 
 ## 📈 GitHub Stats
