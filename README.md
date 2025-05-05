@@ -19,4 +19,4 @@
 - Em breve outros...
 
 ## 📈 GitHub Stats
-![Dennys GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Dennys GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightingttt&show_icons=true&theme=radical)
