@@ -1,7 +1,7 @@
 # 👋 Oi, me chamo Dennys!
 
 🎓 Estudante de [Curso ou Área]  
-💻 Explorando algoritmos generativos para produzir arte e imagens de forma procedural.
+💻 Explorando algoritmos generativos para produzir arte e imagens de forma procedural
 📚 Atualmente aprendendo: Java e C#
 📫 Meus contatos:
 
