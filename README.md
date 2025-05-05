@@ -1,7 +1,7 @@
 # 👋 Oi, me chamo Dennys!
 
-💻 Explorando algoritmos generativos para produzir arte e imagens de forma procedural
-📚 Atualmente aprendendo: Java e C#
+💻 Explorando algoritmos generativos para produzir arte e imagens de forma procedural<br>
+📚 Atualmente aprendendo: Java e C#<br>
 📫 Meus contatos:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
