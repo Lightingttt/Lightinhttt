@@ -1,6 +1,6 @@
 # 👋 Oi, me chamo Dennys!
 
-💻 Explorando algoritmos generativos para produzir arte e imagens de forma procedural<br>
+💻 Explorando algoritmos generativos para produzir animações procedurais<br>
 📚 Atualmente aprendendo: Java e C#<br>
 📫 Meus contatos:
 
